@@ -145,6 +145,23 @@ with center:
         plt.tight_layout()
 
         st.pyplot(fig, use_container_width=False)
+# ---------------------------------------------------------
+# CONCLUSION SECTION
+# ---------------------------------------------------------
+
+st.markdown("---")
+
+st.subheader("📌 Key Insights")
+
+st.markdown(""" Almost all patients experience glucose variability
+Since counts are:
+
+Low: 24 / 25 patients Normal: 25 / 25 patients High: 25 / 25 patients Very High: 25 / 25 patients
+
+👉 This indicates:
+
+Nearly every patient has experienced all stages of blood sugar fluctuation Strong evidence of high intra-patient variability.
+""")
 
 # ---------------------------------------------------------
 # DATA TABLE
