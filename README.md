@@ -50,5 +50,5 @@ These findings suggest that while physical activity strongly influences calorie 
 - These age-related physiological differences may play an important role in improving personalized diabetes management and predictive modeling.
 
 ## Team Members:
-Archana, Jyothi, Pooja, Suparna, Vyshnavi
+Pooja Belure, Jyothi Gujjari, Vyshnavi Andhavarapu, Archana Saurav, Suparna Singh
 
