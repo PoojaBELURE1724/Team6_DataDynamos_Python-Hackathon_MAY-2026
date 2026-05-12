@@ -19,7 +19,7 @@ openpyxl      # excel file handling
 ## Key Findings-
 
 ### 1. Glucose Distribution & Daily Trends
-- Nearly all patients experienced multiple stages of blood glucose fluctuation throughout the monitoring period, with 24 out of 25 patients recording low glucose levels and all 25 patients experiencing normal, high, and very high glucose ranges, indicating strong intra-patient glycemic variability across the dataset.
+- Daily glucose trends revealed noticeable evening spikes between 7 PM and 10 PM, with glucose levels reaching as high as 152.6 mg/dL during these hours.
 
 ### 2. Correlation Analysis
 - Correlation analysis showed that glucose has only a weak relationship with physical activity and heart rate, with correlations of **0.05** and **0.10**, respectively.
