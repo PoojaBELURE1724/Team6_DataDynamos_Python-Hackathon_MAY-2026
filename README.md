@@ -19,8 +19,7 @@ openpyxl      # excel file handling
 ## Key Findings-
 
 ### 1. Glucose Distribution & Daily Trends
-- Approximately 25% of patients fall within the **Normal** blood glucose range, while nearly 75% fall into the **High** or **Very High** categories, indicating a significant prevalence of hyperglycemia within the dataset.
-- Daily glucose trends revealed noticeable evening spikes between **7 PM and 10 PM**, with glucose levels reaching as high as **152.6 mg/dL** during these hours.
+- Daily glucose trends revealed noticeable evening spikes between 7 PM and 10 PM, with glucose levels reaching as high as 152.6 mg/dL during these hours.
 
 ### 2. Correlation Analysis
 - Correlation analysis showed that glucose has only a weak relationship with physical activity and heart rate, with correlations of **0.05** and **0.10**, respectively.
